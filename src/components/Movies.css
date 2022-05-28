@@ -1,0 +1,56 @@
+.hd{color:red;
+
+    background-color: black;
+
+text-align: center;
+
+
+}
+
+
+
+
+    
+.row{
+    gap: 32px;
+
+
+
+}
+.row::-webkit-scrollbar{
+
+    display: none;
+}
+
+
+
+
+.img1{
+row-gap: 20px;
+cursor: pointer;
+    height: 400px;
+    width:320px;
+}
+.vlogo{
+left: 100px;
+right: 80px;
+    height: 60px;
+    width:60px;
+}
+.img1:hover{
+
+    transform: scale(1.1);
+}
+.top{
+
+
+    background-color: #111;
+}
+.marq{
+
+color: rgb(242, 255, 0);
+font-weight: 200;
+
+    text-transform: capitalize;
+    font-style: italic;
+}

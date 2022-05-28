@@ -1,0 +1,1 @@
+export const BaseUrl='https://api.tvmaze.com/search/shows?q=all'
